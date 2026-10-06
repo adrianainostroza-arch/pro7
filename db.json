@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Pro",
+      "marca": "Dell",
+      "precio": 1200,
+      "categoria": "Computación",
+      "stock": 15,
+      "descripcion": "Notebook de alto rendimiento con procesador de última generación, 16 GB de RAM y pantalla de 15,6 pulgadas. Ideal para trabajo y desarrollo."
+    },
+    {
+      "id": 2,
+      "nombre": "Smartphone X",
+      "marca": "Samsung",
+      "precio": 850,
+      "categoria": "Móviles",
+      "stock": 30,
+      "descripcion": "Smartphone con pantalla AMOLED de 6,5 pulgadas, cámara triple y batería de larga duración."
+    },
+    {
+      "id": 3,
+      "nombre": "Tablet Air",
+      "marca": "Apple",
+      "precio": 950,
+      "categoria": "Móviles",
+      "stock": 12,
+      "descripcion": "Tablet ligera de 10,9 pulgadas con chip de alto rendimiento, perfecta para estudiar, dibujar y entretenerse."
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor 27",
+      "marca": "LG",
+      "precio": 320,
+      "categoria": "Periféricos",
+      "stock": 20,
+      "descripcion": "Monitor de 27 pulgadas con resolución QHD, panel IPS y tasa de refresco de 75 Hz."
+    },
+    {
+      "id": 5,
+      "nombre": "Mouse Gamer",
+      "marca": "Logitech",
+      "precio": 65,
+      "categoria": "Periféricos",
+      "stock": 100,
+      "descripcion": "Mouse inalámbrico con sensor óptico de 25.000 DPI, 8 botones programables y diseño ergonómico."
+    },
+    {
+      "id": 6,
+      "nombre": "Teclado Mecánico",
+      "marca": "Redragon",
+      "precio": 90,
+      "categoria": "Periféricos",
+      "stock": 45,
+      "descripcion": "Teclado mecánico con switches rojos, iluminación RGB y construcción en metal."
+    },
+    {
+      "id": 7,
+      "nombre": "Impresora EcoTank",
+      "marca": "Epson",
+      "precio": 430,
+      "categoria": "Oficina",
+      "stock": 8,
+      "descripcion": "Impresora multifuncional con sistema de tinta continua, WiFi e impresión a doble cara automática."
+    },
+    {
+      "id": 8,
+      "nombre": "Disco SSD 1TB",
+      "marca": "Kingston",
+      "precio": 110,
+      "categoria": "Almacenamiento",
+      "stock": 60,
+      "descripcion": "Unidad de estado sólido NVMe de 1 TB con velocidades de lectura de hasta 3.500 MB/s."
+    }
+  ]
+}
