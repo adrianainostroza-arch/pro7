@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import CatalogoView from '@/views/CatalogoView.vue'
 import ProductoDetalleView from '@/views/ProductoDetalleView.vue'
 import NotFoundView from '@/views/NotFoundView.vue'
@@ -26,7 +26,7 @@ export const routes = [
 ]
 
 // Fábrica: en producción usa el historial del navegador; en los tests, uno en memoria
-export function crearRouter (history = createWebHistory(process.env.BASE_URL)) {
+export function crearRouter (history = createWebHashHistory()) {
   const router = createRouter({
     history,
     routes,
